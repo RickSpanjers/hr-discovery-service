@@ -1,1 +1,1 @@
-hr-discovery-service
+hr-discoveryservice
